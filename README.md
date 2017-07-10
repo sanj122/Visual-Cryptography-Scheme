@@ -1,7 +1,7 @@
 <html>
-<head>
-<title><h1>visual cryptography scheme</h1></title>
-</head>
+
+
+
 <body>
 <h1>VISUAL CRYPTOGRAPHY SCHEME</h1>
 
