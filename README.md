@@ -1,8 +1,8 @@
-# Visual-Cryptography-Scheme
+
 <html>
-<head>
-<title><h1>visual cryptography scheme</h1></title>
-</head>
+
+
+
 <body>
 <h1>VISUAL CRYPTOGRAPHY SCHEME</h1>
 
@@ -26,7 +26,7 @@ number of different images. Using the application we can send
 encrypted images that are in the format of GIF and PNG. The
 encrypted transparencies can be saved in the machine and can be
 sent to the intended person by other means.
-</p>
+</p></article>
 
 <img src="images.jpg">
 </body>
