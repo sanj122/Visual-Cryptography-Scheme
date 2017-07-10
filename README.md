@@ -28,7 +28,7 @@ encrypted transparencies can be saved in the machine and can be
 sent to the intended person by other means.
 </p></article>
 
-<img src="images.jpg">
+
 
 </body>
 </html>
